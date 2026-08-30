@@ -1,13 +1,13 @@
 {
-  "Version": "13.0.0.0",
+  "Version": "13.0.0.",
   "Title": "V2rayVPN",
   "Subtitle": "",
-  "Features": "",
+  "Features": "دانلود مستقیم فیلتر خراب جدید اومده",
   "Description": "سلام دوستان پول بدید اگه پول نمی‌دید من قطعش میکنم. پول لازم هستم.....یاحق",
   "BtnLater": "باز شود",
-  "BtnUpdate": "🔒🔒",
-  "Url": "",
-  "ForceUpdate": false,
+  "BtnUpdate": "⬇️دانلود⬇️",
+  "Url": "https://e.pcloud.link/publink/show?code=XZWn077ZnSGlxfmcEiJN5cJO07BLdRXIiWRX",
+  "ForceUpdate": true,
   "Reminder": "0m",      
   "BtnTimer": 0         
 }
