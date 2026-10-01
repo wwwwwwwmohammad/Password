@@ -7,7 +7,7 @@
   "BtnLater": "باز شود",
   "BtnUpdate": "⬇️دانلود⬇️",
   "Url": "https://e.pcloud.link/publink/show?code=XZWn077ZnSGlxfmcEiJN5cJO07BLdRXIiWRX",
-  "ForceUpdate": true,
+  "ForceUpdate": false,
   "Reminder": "0m",      
   "BtnTimer": 0         
 }
