@@ -8,7 +8,7 @@
   "BtnUpdate": "⬇️دانلود⬇️",
   "Url": "https://e.pcloud.link/publink/show?code=XZWn077ZnSGlxfmcEiJN5cJO07BLdRXIiWRX",
   "ForceUpdate": false,
-  "Reminder": "0m",      
+  "Reminder": "30d",      
   "BtnTimer": 0         
 }
 
