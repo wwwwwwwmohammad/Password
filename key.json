@@ -2,12 +2,12 @@
   "Version": "12.0.0",
   "Title": "V2rayVPN",
   "Subtitle": "",
-  "Features": "دانلود مستقیم فیلتر خراب جدید اومده",
-  "Description": "دیگه فیلتر درست نمیکنم هرکی خواست یک فیلتر جدید اومده بیاد همونو‌ براش درست می کنم ",
+  "Features": "v12.2.0 ",
+  "Description": "دانلود مستقیم فیلتر خراب جدید اومده",
   "BtnLater": "باز شود",
   "BtnUpdate": "⬇️دانلود⬇️",
   "Url": "https://e.pcloud.link/publink/show?code=XZE4ek7Zh7UjnqulIi8laPduSw1UY593yQYV",
-  "ForceUpdate": false,
+  "ForceUpdate": true,
   "Reminder": "0m",      
   "BtnTimer": 0         
 }
